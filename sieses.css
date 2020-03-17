@@ -1,5 +1,9 @@
 body{
-    background-color: black;
-    color: white;
-    font-family: Gabriela;
+    background: url(heart.jpg);
+}
+li{
+    font-size: 15px;
+}
+ul{
+    list-style-type:none;
 }
